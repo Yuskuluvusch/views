@@ -232,4 +232,3 @@ CONFIGURATOR.Front = function (step) {
 };
 
 CONFIGURATOR.Front.prototype = new CONFIGURATOR.ELEMENTS.BaseGroupElement;
-
